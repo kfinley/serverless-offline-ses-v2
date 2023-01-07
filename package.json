@@ -41,6 +41,6 @@
     "testEnvironment": "node"
   },
   "dependencies": {
-    "aws-ses-v2-local": "file://../aws-ses-v2-local"
+    "aws-ses-v2-local": "2.1.0"
   }
 }
